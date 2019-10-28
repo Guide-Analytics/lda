@@ -1,0 +1,12 @@
+Topic: 1
+['service', 'store', 'product', 'asked', 'price']
+ 
+Topic: 2
+['staff', 'find', 'good', 'helpful', 'store']
+ 
+Topic: 3
+['customer', 'great', 'place', 'auto', 'service']
+ 
+Topic: 4
+['tire', 'canadian', 'stock', 'time', 'needed']
+ 
