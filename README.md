@@ -1,4 +1,4 @@
-# LDA Analysis 3.0 - Topic Modelling through APACHE SPARK
+# LDA Analysis - Topic Modelling (via Apache Spark)
 
 - This is currently the 3rd version of LDA Analysis. 
 - Mainly, we want to focus on extraction of topic terms and number of topics
